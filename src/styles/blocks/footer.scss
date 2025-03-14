@@ -50,7 +50,7 @@
   }
 
   &__input:focus {
-    border: 2px solid $form-itemFocus-color;
+    border: 2px solid $form-item-focus-color;
     color: $main-text-color;
     outline: none;
     transition: none;
@@ -91,7 +91,7 @@
   }
 
   &__textarea:focus {
-    border: 2px solid $form-itemFocus-color;
+    border: 2px solid $form-item-focus-color;
     color: $main-text-color;
     outline: none;
     transition: none;

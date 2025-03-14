@@ -24,7 +24,7 @@
 
     opacity: 0;
     pointer-events: none;
-    transition: opacity $effectDuration;
+    transition: opacity $effect-duration;
 
     &:target {
       opacity: 1;
